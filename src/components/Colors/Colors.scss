@@ -1,0 +1,40 @@
+.colors {
+  display: flex;
+  column-gap: 30px;
+  margin-top: 20px;
+  .color {
+    box-shadow: 0 0 6px #ddd;
+    border: 2px solid white;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    display: block;
+    background-color: #ddd;
+    transition-property: border-color, box-shadow;
+    transition-duration: .5s;
+    $colors: (
+      red #cd253a,
+      yellow #ebcc3e,
+      white #e2e1e9,
+      black-red #1b1c21,
+      blue #2aa4c1,
+      black-yellow #1b1c21
+    );
+    @each $color-name, $color in $colors {
+      &.#{$color-name} {
+        background-color: $color;
+        @if $color-name == black-red {
+          background-image: linear-gradient(45deg, #35363b, #b55f5c);
+        } @else if $color-name == black-yellow {
+          background-image: linear-gradient(45deg, #35363b, #aba977);
+        }
+      }
+    }
+    &.active {
+      border-color: #404040;
+      // transition: all 0.5s;
+      box-shadow: 0 0 10px #ddd;
+    }
+  }
+}

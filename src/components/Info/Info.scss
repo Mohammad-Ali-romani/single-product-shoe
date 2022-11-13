@@ -1,0 +1,17 @@
+.info {
+  margin-top: 20px;
+  .nav-product-info {
+    .nav-item {
+      .nav-link {
+        background-color: transparent;
+        border: none;
+        color: rgba(0, 0, 0, 0.237);
+        margin-right: 10px;
+        padding: 10px 0;
+        &.active {
+          color: #000;
+        }
+      }
+    }
+  }
+}
