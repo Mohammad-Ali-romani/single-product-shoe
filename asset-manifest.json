@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c24cb83.css",
-    "main.js": "/static/js/main.50a762c4.js",
-    "static/media/06.png": "/static/media/06.e483affc70b503ac5c46.png",
-    "static/media/05.png": "/static/media/05.43707d76edd9ae8e2611.png",
-    "static/media/03.png": "/static/media/03.54431817925f5107c4c2.png",
-    "static/media/01.png": "/static/media/01.f028a9b24dcfea6a2111.png",
-    "static/media/04.png": "/static/media/04.36d0242d3a0ffff48b68.png",
-    "static/media/02.png": "/static/media/02.cbd7828933bab4c60d15.png",
-    "static/media/FontsFree-Net-BasisGrotesquePro-Light.ttf": "/static/media/FontsFree-Net-BasisGrotesquePro-Light.0d1878571622106480ea.ttf",
-    "static/media/FontsFree-Net-BasisGrotesquePro-Regular.ttf": "/static/media/FontsFree-Net-BasisGrotesquePro-Regular.fe2ee68868e5b2b5b50f.ttf",
-    "static/media/FontsFree-Net-BasisGrotesquePro-Bold.ttf": "/static/media/FontsFree-Net-BasisGrotesquePro-Bold.8aa4d23878cd66d91eb4.ttf",
-    "index.html": "/index.html",
-    "main.5c24cb83.css.map": "/static/css/main.5c24cb83.css.map",
-    "main.50a762c4.js.map": "/static/js/main.50a762c4.js.map"
+    "main.css": "/single-product-shoe/static/css/main.f2047780.css",
+    "main.js": "/single-product-shoe/static/js/main.bae6e451.js",
+    "static/media/06.png": "/single-product-shoe/static/media/06.e483affc70b503ac5c46.png",
+    "static/media/05.png": "/single-product-shoe/static/media/05.43707d76edd9ae8e2611.png",
+    "static/media/03.png": "/single-product-shoe/static/media/03.54431817925f5107c4c2.png",
+    "static/media/01.png": "/single-product-shoe/static/media/01.f028a9b24dcfea6a2111.png",
+    "static/media/04.png": "/single-product-shoe/static/media/04.36d0242d3a0ffff48b68.png",
+    "static/media/02.png": "/single-product-shoe/static/media/02.cbd7828933bab4c60d15.png",
+    "static/media/FontsFree-Net-BasisGrotesquePro-Light.ttf": "/single-product-shoe/static/media/FontsFree-Net-BasisGrotesquePro-Light.0d1878571622106480ea.ttf",
+    "static/media/FontsFree-Net-BasisGrotesquePro-Regular.ttf": "/single-product-shoe/static/media/FontsFree-Net-BasisGrotesquePro-Regular.fe2ee68868e5b2b5b50f.ttf",
+    "static/media/FontsFree-Net-BasisGrotesquePro-Bold.ttf": "/single-product-shoe/static/media/FontsFree-Net-BasisGrotesquePro-Bold.8aa4d23878cd66d91eb4.ttf",
+    "index.html": "/single-product-shoe/index.html",
+    "main.f2047780.css.map": "/single-product-shoe/static/css/main.f2047780.css.map",
+    "main.bae6e451.js.map": "/single-product-shoe/static/js/main.bae6e451.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c24cb83.css",
-    "static/js/main.50a762c4.js"
+    "static/css/main.f2047780.css",
+    "static/js/main.bae6e451.js"
   ]
 }
